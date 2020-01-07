@@ -1,3 +1,5 @@
+SAMPLE VIDEO: https://www.youtube.com/watch?v=NM9VjPBfxgk
+
 1. Follow the instructions on following link to create a reddit API key :
    
    https://alpscode.com/blog/how-to-use-reddit-api/ 
